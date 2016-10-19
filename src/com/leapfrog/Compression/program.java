@@ -15,7 +15,6 @@ public class program {
         Scanner in=new Scanner(System.in);
         System.out.println("Enter thr string you want to compress");
         String ch=in.next();
-      //  String ch="AAAA!wwwweeeerhhhqwe";
         
         String output="";
         char prev='0';//this is empty
